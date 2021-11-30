@@ -28,7 +28,7 @@ Example - MBI Harry 1250 43
   <li>If the last EMI is more than the remaining amount to pay, then it should be adjusted to match the amount remaining to pay. E.g. if the remaining amount to pay is 150 and your EMI is 160, then the last EMI amount paid should be 150.</li>
   <li> The total amount remaining at any EMI number should always include the EMIs paid and lump sum payments until that number. For example if there was a lump sum payment after EMI number 10, then the balance command for EMI number 10 should include the lump sum payment as well.</li>
 </ol>
-<h2>SIMPLE INPUT OUTPUT</h2>
+<h2>SAMPLE INPUT OUTPUT</h2>
 <h2>INPUT</h2>
 LOAN IDIDI Dale 10000 5 4<BR>
 LOAN MBI Harry 2000 2 2<BR>
